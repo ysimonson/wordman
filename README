@@ -1,5 +1,9 @@
 This is Wordman, a pacman-like game to help kids learn how to spell. To play,
-first build the program:
+first fetch the dependencies:
+
+    git submodule update --init --recursive
+
+Then build the program:
 
     sh build.sh
 
